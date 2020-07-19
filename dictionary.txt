@@ -1,419 +1,419 @@
 # Gboard Dictionary version:1
-\Iota	I	en-US
-\lnot	¬	en-US
-\neg	¬	en-US
-^2	²	en-US
-^3	³	en-US
-^1	¹	en-US
-\times	×	en-US
-\div	÷	en-US
-^h	ʰ	en-US
-^j	ʲ	en-US
-^r	ʳ	en-US
-^w	ʷ	en-US
-^y	ʸ	en-US
-^l	ˡ	en-US
-^s	ˢ	en-US
-^x	ˣ	en-US
-\Alpha	Α	en-US
-\Beta	Β	en-US
-\Gamma	Γ	en-US
-\Delta	Δ	en-US
-\Epsilon	Ε	en-US
-\Zeta	Ζ	en-US
-\Eta	Η	en-US
-\Theta	Θ	en-US
-\Kappa	Κ	en-US
-\Lambda	Λ	en-US
-\Mu	Μ	en-US
-\Nu	Ν	en-US
-\Xi	Ξ	en-US
-\Omicron	Ο	en-US
-\Pi	Π	en-US
-\Rho	Ρ	en-US
-\Sigma	Σ	en-US
-\Tau	Τ	en-US
-\Upsilon	Υ	en-US
-\Phi	Φ	en-US
-\Chi	Χ	en-US
-\Psi	Ψ	en-US
-\Omega	Ω	en-US
-\alpha	α	en-US
-\beta	β	en-US
-\gamma	γ	en-US
-\delta	δ	en-US
-\epsilon	ε	en-US
-\varepsilon	ε	en-US
-\zeta	ζ	en-US
-\eta	η	en-US
-\theta	θ	en-US
-\iota	ι	en-US
-\kappa	κ	en-US
-\lambda	λ	en-US
-\mu	μ	en-US
-\nu	ν	en-US
-\xi	ξ	en-US
-\omicron	ο	en-US
-\pi	π	en-US
-\rho	ρ	en-US
-\varsigma	ς	en-US
-\sigma	σ	en-US
-\tau	τ	en-US
-\upsilon	υ	en-US
-\phi	φ	en-US
-\varphi	φ	en-US
-\chi	χ	en-US
-\psi	ψ	en-US
-\omega	ω	en-US
-\vartheta	ϑ	en-US
-\phi	ϕ	en-US
-\varpi	ϖ	en-US
-\varkappa	ϰ	en-US
-\varrho	ϱ	en-US
-\epsilon	ϵ	en-US
-^a	ᵃ	en-US
-^b	ᵇ	en-US
-^d	ᵈ	en-US
-^e	ᵉ	en-US
-^g	ᵍ	en-US
-^k	ᵏ	en-US
-^m	ᵐ	en-US
-^o	ᵒ	en-US
-^p	ᵖ	en-US
-^t	ᵗ	en-US
-^u	ᵘ	en-US
-^v	ᵛ	en-US
-_i	ᵢ	en-US
-_r	ᵣ	en-US
-_u	ᵤ	en-US
-_v	ᵥ	en-US
-^c	ᶜ	en-US
-^f	ᶠ	en-US
-^z	ᶻ	en-US
-^0	⁰	en-US
-^i	ⁱ	en-US
-^4	⁴	en-US
-^5	⁵	en-US
-^6	⁶	en-US
-^7	⁷	en-US
-^8	⁸	en-US
-^9	⁹	en-US
-_+	⁺	en-US
-^+	⁺	en-US
-_-	⁻	en-US
-^-	⁻	en-US
-^(	⁽	en-US
-^)	⁾	en-US
-^n	ⁿ	en-US
-_0	₀	en-US
-_1	₁	en-US
-_2	₂	en-US
-_3	₃	en-US
-_4	₄	en-US
-_5	₅	en-US
-_6	₆	en-US
-_7	₇	en-US
-_8	₈	en-US
-_9	₉	en-US
-_(	₍	en-US
-_)	₎	en-US
-_a	ₐ	en-US
-_e	ₑ	en-US
-_o	ₒ	en-US
-_x	ₓ	en-US
-_h	ₕ	en-US
-_k	ₖ	en-US
-_l	ₗ	en-US
-_m	ₘ	en-US
-_n	ₙ	en-US
-_p	ₚ	en-US
-_s	ₛ	en-US
-_t	ₜ	en-US
-\complex	ℂ	en-US
-\mathbb{C}	ℂ	en-US
-\mathfrak{H}	ℌ	en-US
-\mathbb{H}	ℍ	en-US
-\Im	ℑ	en-US
-\mathfrak{I}	ℑ	en-US
-\natural	ℕ	en-US
-\mathbb{N}	ℕ	en-US
-\wp	℘	en-US
-\mathbb{P}	ℙ	en-US
-\rational	ℚ	en-US
-\mathbb{Q}	ℚ	en-US
-\Re	ℜ	en-US
-\mathfrak{R}	ℜ	en-US
-\real	ℝ	en-US
-\mathbb{R}	ℝ	en-US
-\integer	ℤ	en-US
-\mathbb{Z}	ℤ	en-US
-\mathfrak{Z}	ℨ	en-US
-\mathfrak{C}	ℭ	en-US
-\aleph	ℵ	en-US
-\beth	ℶ	en-US
-\leftarrow	←	en-US
-\uparrow	↑	en-US
-\rightarrow	→	en-US
-\to	→	en-US
-\downarrow	↓	en-US
-\leftrightarrow	↔	en-US
-\nwarrow	↖	en-US
-\nearrow	↗	en-US
-\searrow	↘	en-US
-\swarrow	↙	en-US
-\twoheadleftarrow	↞	en-US
-\twoheadrightarrow	↠	en-US
-\leftarrowtail	↢	en-US
-\rightarrowtail	↣	en-US
-\mapsto	↦	en-US
-\hookleftarrow	↩	en-US
-\hookrightarrow	↪	en-US
-\rightharpoonup	⇀	en-US
-\rightharpoondown	⇁	en-US
-\leftrightharpoons	⇋	en-US
-\rightleftharpoons	⇌	en-US
-\Leftarrow	⇐	en-US
-\Uparrow	⇑	en-US
-\Rightarrow	⇒	en-US
-\Downarrow	⇓	en-US
-\Leftrightarrow	⇔	en-US
-\rightsquigarrow	⇝	en-US
-\forall	∀	en-US
-\partial	∂	en-US
-\exists	∃	en-US
-\nexists	∄	en-US
-\not\exists	∄	en-US
-\emptyset	∅	en-US
-\nabla	∇	en-US
-\in	∈	en-US
-\notin	∉	en-US
-\not\in	∉	en-US
-\ni	∋	en-US
-\not\ni	∌	en-US
-\prod	∏	en-US
-\coprod	∐	en-US
-\sum	∑	en-US
-\mp	∓	en-US
-\dotplus	∔	en-US
-\setminus	∖	en-US
-\circ	∘	en-US
-\bullet	∙	en-US
-\surd	√	en-US
-\propto	∝	en-US
-\inf	∞	en-US
-\infty	∞	en-US
-\angle	∠	en-US
-\measuredangle	∡	en-US
-\sphericalangle	∢	en-US
-\mid	∣	en-US
-\nmid	∤	en-US
-\not\mid	∤	en-US
-\parallel	∥	en-US
-\nparallel	∦	en-US
-\not\parallel	∦	en-US
-\land	∧	en-US
-\wedge	∧	en-US
-\lor	∨	en-US
-\vee	∨	en-US
-\cap	∩	en-US
-\cup	∪	en-US
-\integral	∫	en-US
-\int	∫	en-US
-\iint	∬	en-US
-\iiint	∭	en-US
-\oint	∮	en-US
-\surfintegral	∯	en-US
-\volintegral	∰	en-US
-\therefore	∴	en-US
-\because	∵	en-US
-\sim	∼	en-US
-\backsim	∽	en-US
-\lazysinv	∾	en-US
-\wr	≀	en-US
-\not\sim	≁	en-US
-\simeq	≃	en-US
-\not\simeq	≄	en-US
-\cong	≅	en-US
-\approxnotequal	≆	en-US
-\not\cong	≇	en-US
-\approx	≈	en-US
-\approxeq	≊	en-US
-\tildetrpl	≋	en-US
-\allequal	≌	en-US
-\asymp	≍	en-US
-\doteq	≐	en-US
-\doteqdot	≑	en-US
-\neq	≠	en-US
-\equivalent	≡	en-US
-\equiv	≡	en-US
-\not\equiv	≢	en-US
-\leq	≤	en-US
-\geq	≥	en-US
-\leqq	≦	en-US
-\geqq	≧	en-US
-\lneqq	≨	en-US
-\gneqq	≩	en-US
-\ll	≪	en-US
-\gg	≫	en-US
-\nless	≮	en-US
-\ngtr	≯	en-US
-\nleq	≰	en-US
-\ngeq	≱	en-US
-\lessequivlnt	≲	en-US
-\greaterequivlnt	≳	en-US
-\prec	≺	en-US
-\succ	≻	en-US
-\preccurlyeq	≼	en-US
-\succcurlyeq	≽	en-US
-\precapprox	≾	en-US
-\succapprox	≿	en-US
-\nprec	⊀	en-US
-\nsucc	⊁	en-US
-\subset	⊂	en-US
-\supset	⊃	en-US
-\not\subset	⊄	en-US
-\not\supset	⊅	en-US
-\subseteq	⊆	en-US
-\supseteq	⊇	en-US
-\nsubseteq	⊈	en-US
-\not\subseteq	⊈	en-US
-\nsupseteq	⊉	en-US
-\not\supseteq	⊉	en-US
-\subsetneq	⊊	en-US
-\supsetneq	⊋	en-US
-\xor	⊕	en-US
-\oplus	⊕	en-US
-\ominus	⊖	en-US
-\otimes	⊗	en-US
-\oslash	⊘	en-US
-\odot	⊙	en-US
-\vdash	⊢	en-US
-\top	⊤	en-US
-\bot	⊥	en-US
-\models	⊨	en-US
-\veebar	⊻	en-US
-\bigcap	⋂	en-US
-\bigcup	⋃	en-US
-\cdot	⋅	en-US
-\lceil	⌈	en-US
-\rceil	⌉	en-US
-\lfloor	⌊	en-US
-\rfloor	⌋	en-US
-\Box	□	en-US
-\flat	♭	en-US
-\natural	♮	en-US
-\sharp	♯	en-US
-\langle	⟨	en-US
-\rangle	⟩	en-US
-\Leftarrow	⟸	en-US
-\Rightarrow	⟹	en-US
-\Leftrightarrow	⟺	en-US
-\iiiint	⨌	en-US
-\leqslant	⩽	en-US
-\geqslant	⩾	en-US
-\lneq	⪇	en-US
-\gneq	⪈	en-US
-\preceq	⪯	en-US
-\succeq	⪰	en-US
-\precneqq	⪵	en-US
-\succneqq	⪶	en-US
-_j	ⱼ	en-US
-\mathfrak{A}	𝔄	en-US
-\mathfrak{B}	𝔅	en-US
-\mathfrak{D}	𝔇	en-US
-\mathfrak{E}	𝔈	en-US
-\mathfrak{F}	𝔉	en-US
-\mathfrak{G}	𝔊	en-US
-\mathfrak{J}	𝔍	en-US
-\mathfrak{K}	𝔎	en-US
-\mathfrak{L}	𝔏	en-US
-\mathfrak{M}	𝔐	en-US
-\mathfrak{N}	𝔑	en-US
-\mathfrak{O}	𝔒	en-US
-\mathfrak{P}	𝔓	en-US
-\mathfrak{Q}	𝔔	en-US
-\mathfrak{S}	𝔖	en-US
-\mathfrak{T}	𝔗	en-US
-\mathfrak{U}	𝔘	en-US
-\mathfrak{V}	𝔙	en-US
-\mathfrak{X}	𝔛	en-US
-\mathfrak{Y}	𝔜	en-US
-\mathfrak{a}	𝔞	en-US
-\mathfrak{b}	𝔟	en-US
-\mathfrakc	𝔠	en-US
-\mathfrak{c}	𝔠	en-US
-\mathfrak{d}	𝔡	en-US
-\mathfrak{e}	𝔢	en-US
-\mathfrak{f}	𝔣	en-US
-\mathfrak{g}	𝔤	en-US
-\mathfrak{h}	𝔥	en-US
-\mathfrak{i}	𝔦	en-US
-\mathfrak{j}	𝔧	en-US
-\mathfrak{k}	𝔨	en-US
-\mathfrak{l}	𝔩	en-US
-\mathfrak{m}	𝔪	en-US
-\mathfrak{n}	𝔫	en-US
-\mathfrak{o}	𝔬	en-US
-\mathfrak{p}	𝔭	en-US
-\mathfrak{q}	𝔮	en-US
-\mathfrak{r}	𝔯	en-US
-\mathfrak{s}	𝔰	en-US
-\mathfrak{t}	𝔱	en-US
-\mathfrak{u}	𝔲	en-US
-\mathfrak{v}	𝔳	en-US
-\mathfrak{x}	𝔵	en-US
-\mathfrak{y}	𝔶	en-US
-\mathfrak{z}	𝔷	en-US
-\mathbb{A}	𝔸	en-US
-\mathbb{B}	𝔹	en-US
-\mathbb{D}	𝔻	en-US
-\mathbb{E}	𝔼	en-US
-\mathbb{F}	𝔽	en-US
-\mathbb{G}	𝔾	en-US
-\mathbb{I}	𝕀	en-US
-\mathbb{J}	𝕁	en-US
-\mathbb{K}	𝕂	en-US
-\mathbb{L}	𝕃	en-US
-\mathbb{M}	𝕄	en-US
-\mathbb{O}	𝕆	en-US
-\mathbb{S}	𝕊	en-US
-\mathbb{T}	𝕋	en-US
-\mathbb{U}	𝕌	en-US
-\mathbb{V}	𝕍	en-US
-\mathbb{X}	𝕏	en-US
-\mathbb{Y}	𝕐	en-US
-\mathbb{a}	𝕒	en-US
-\mathbb{b}	𝕓	en-US
-\mathbb{c}	𝕔	en-US
-\mathbb{d}	𝕕	en-US
-\mathbb{e}	𝕖	en-US
-\mathbb{f}	𝕗	en-US
-\mathbb{g}	𝕘	en-US
-\mathbb{h}	𝕙	en-US
-\mathbb{i}	𝕚	en-US
-\mathbb{j}	𝕛	en-US
-\mathbb{k}	𝕜	en-US
-\mathbb{l}	𝕝	en-US
-\mathbb{m}	𝕞	en-US
-\mathbb{n}	𝕟	en-US
-\mathbb{o}	𝕠	en-US
-\mathbb{p}	𝕡	en-US
-\mathbb{q}	𝕢	en-US
-\mathbb{r}	𝕣	en-US
-\mathbb{s}	𝕤	en-US
-\mathbb{t}	𝕥	en-US
-\mathbb{u}	𝕦	en-US
-\mathbb{v}	𝕧	en-US
-\mathbb{x}	𝕩	en-US
-\mathbb{y}	𝕪	en-US
-\mathbb{z}	𝕫	en-US
-\mathbb{0}	𝟘	en-US
-\mathbb{1}	𝟙	en-US
-\mathbb{2}	𝟚	en-US
-\mathbb{3}	𝟛	en-US
-\mathbb{4}	𝟜	en-US
-\mathbb{5}	𝟝	en-US
-\mathbb{6}	𝟞	en-US
-\mathbb{7}	𝟟	en-US
-\mathbb{8}	𝟠	en-US
-\mathbb{9}	𝟡	en-US
+\Iota	I	
+\lnot	¬	
+\neg	¬	
+^2	²	
+^3	³	
+^1	¹	
+\times	×	
+\div	÷	
+^h	ʰ	
+^j	ʲ	
+^r	ʳ	
+^w	ʷ	
+^y	ʸ	
+^l	ˡ	
+^s	ˢ	
+^x	ˣ	
+\Alpha	Α	
+\Beta	Β	
+\Gamma	Γ	
+\Delta	Δ	
+\Epsilon	Ε	
+\Zeta	Ζ	
+\Eta	Η	
+\Theta	Θ	
+\Kappa	Κ	
+\Lambda	Λ	
+\Mu	Μ	
+\Nu	Ν	
+\Xi	Ξ	
+\Omicron	Ο	
+\Pi	Π	
+\Rho	Ρ	
+\Sigma	Σ	
+\Tau	Τ	
+\Upsilon	Υ	
+\Phi	Φ	
+\Chi	Χ	
+\Psi	Ψ	
+\Omega	Ω	
+\alpha	α	
+\beta	β	
+\gamma	γ	
+\delta	δ	
+\epsilon	ε	
+\varepsilon	ε	
+\zeta	ζ	
+\eta	η	
+\theta	θ	
+\iota	ι	
+\kappa	κ	
+\lambda	λ	
+\mu	μ	
+\nu	ν	
+\xi	ξ	
+\omicron	ο	
+\pi	π	
+\rho	ρ	
+\varsigma	ς	
+\sigma	σ	
+\tau	τ	
+\upsilon	υ	
+\phi	φ	
+\varphi	φ	
+\chi	χ	
+\psi	ψ	
+\omega	ω	
+\vartheta	ϑ	
+\phi	ϕ	
+\varpi	ϖ	
+\varkappa	ϰ	
+\varrho	ϱ	
+\epsilon	ϵ	
+^a	ᵃ	
+^b	ᵇ	
+^d	ᵈ	
+^e	ᵉ	
+^g	ᵍ	
+^k	ᵏ	
+^m	ᵐ	
+^o	ᵒ	
+^p	ᵖ	
+^t	ᵗ	
+^u	ᵘ	
+^v	ᵛ	
+_i	ᵢ	
+_r	ᵣ	
+_u	ᵤ	
+_v	ᵥ	
+^c	ᶜ	
+^f	ᶠ	
+^z	ᶻ	
+^0	⁰	
+^i	ⁱ	
+^4	⁴	
+^5	⁵	
+^6	⁶	
+^7	⁷	
+^8	⁸	
+^9	⁹	
+_+	₊	
+^+	⁺	
+_-	₋	
+^-	⁻	
+^(	⁽	
+^)	⁾	
+^n	ⁿ	
+_0	₀	
+_1	₁	
+_2	₂	
+_3	₃	
+_4	₄	
+_5	₅	
+_6	₆	
+_7	₇	
+_8	₈	
+_9	₉	
+_(	₍	
+_)	₎	
+_a	ₐ	
+_e	ₑ	
+_o	ₒ	
+_x	ₓ	
+_h	ₕ	
+_k	ₖ	
+_l	ₗ	
+_m	ₘ	
+_n	ₙ	
+_p	ₚ	
+_s	ₛ	
+_t	ₜ	
+\complex	ℂ	
+\mathbb{C}	ℂ	
+\mathfrak{H}	ℌ	
+\mathbb{H}	ℍ	
+\Im	ℑ	
+\mathfrak{I}	ℑ	
+\natural	ℕ	
+\mathbb{N}	ℕ	
+\wp	℘	
+\mathbb{P}	ℙ	
+\rational	ℚ	
+\mathbb{Q}	ℚ	
+\Re	ℜ	
+\mathfrak{R}	ℜ	
+\real	ℝ	
+\mathbb{R}	ℝ	
+\integer	ℤ	
+\mathbb{Z}	ℤ	
+\mathfrak{Z}	ℨ	
+\mathfrak{C}	ℭ	
+\aleph	ℵ	
+\beth	ℶ	
+\leftarrow	←	
+\uparrow	↑	
+\rightarrow	→	
+\to	→	
+\downarrow	↓	
+\leftrightarrow	↔	
+\nwarrow	↖	
+\nearrow	↗	
+\searrow	↘	
+\swarrow	↙	
+\twoheadleftarrow	↞	
+\twoheadrightarrow	↠	
+\leftarrowtail	↢	
+\rightarrowtail	↣	
+\mapsto	↦	
+\hookleftarrow	↩	
+\hookrightarrow	↪	
+\rightharpoonup	⇀	
+\rightharpoondown	⇁	
+\leftrightharpoons	⇋	
+\rightleftharpoons	⇌	
+\Leftarrow	⇐	
+\Uparrow	⇑	
+\Rightarrow	⇒	
+\Downarrow	⇓	
+\Leftrightarrow	⇔	
+\rightsquigarrow	⇝	
+\forall	∀	
+\partial	∂	
+\exists	∃	
+\nexists	∄	
+\not\exists	∄	
+\emptyset	∅	
+\nabla	∇	
+\in	∈	
+\notin	∉	
+\not\in	∉	
+\ni	∋	
+\not\ni	∌	
+\prod	∏	
+\coprod	∐	
+\sum	∑	
+\mp	∓	
+\dotplus	∔	
+\setminus	∖	
+\circ	∘	
+\bullet	∙	
+\surd	√	
+\propto	∝	
+\inf	∞	
+\infty	∞	
+\angle	∠	
+\measuredangle	∡	
+\sphericalangle	∢	
+\mid	∣	
+\nmid	∤	
+\not\mid	∤	
+\parallel	∥	
+\nparallel	∦	
+\not\parallel	∦	
+\land	∧	
+\wedge	∧	
+\lor	∨	
+\vee	∨	
+\cap	∩	
+\cup	∪	
+\integral	∫	
+\int	∫	
+\iint	∬	
+\iiint	∭	
+\oint	∮	
+\surfintegral	∯	
+\volintegral	∰	
+\therefore	∴	
+\because	∵	
+\sim	∼	
+\backsim	∽	
+\lazysinv	∾	
+\wr	≀	
+\not\sim	≁	
+\simeq	≃	
+\not\simeq	≄	
+\cong	≅	
+\approxnotequal	≆	
+\not\cong	≇	
+\approx	≈	
+\approxeq	≊	
+\tildetrpl	≋	
+\allequal	≌	
+\asymp	≍	
+\doteq	≐	
+\doteqdot	≑	
+\neq	≠	
+\equivalent	≡	
+\equiv	≡	
+\not\equiv	≢	
+\leq	≤	
+\geq	≥	
+\leqq	≦	
+\geqq	≧	
+\lneqq	≨	
+\gneqq	≩	
+\ll	≪	
+\gg	≫	
+\nless	≮	
+\ngtr	≯	
+\nleq	≰	
+\ngeq	≱	
+\lessequivlnt	≲	
+\greaterequivlnt	≳	
+\prec	≺	
+\succ	≻	
+\preccurlyeq	≼	
+\succcurlyeq	≽	
+\precapprox	≾	
+\succapprox	≿	
+\nprec	⊀	
+\nsucc	⊁	
+\subset	⊂	
+\supset	⊃	
+\not\subset	⊄	
+\not\supset	⊅	
+\subseteq	⊆	
+\supseteq	⊇	
+\nsubseteq	⊈	
+\not\subseteq	⊈	
+\nsupseteq	⊉	
+\not\supseteq	⊉	
+\subsetneq	⊊	
+\supsetneq	⊋	
+\xor	⊕	
+\oplus	⊕	
+\ominus	⊖	
+\otimes	⊗	
+\oslash	⊘	
+\odot	⊙	
+\vdash	⊢	
+\top	⊤	
+\bot	⊥	
+\models	⊨	
+\veebar	⊻	
+\bigcap	⋂	
+\bigcup	⋃	
+\cdot	⋅	
+\lceil	⌈	
+\rceil	⌉	
+\lfloor	⌊	
+\rfloor	⌋	
+\Box	□	
+\flat	♭	
+\natural	♮	
+\sharp	♯	
+\langle	⟨	
+\rangle	⟩	
+\Leftarrow	⟸	
+\Rightarrow	⟹	
+\Leftrightarrow	⟺	
+\iiiint	⨌	
+\leqslant	⩽	
+\geqslant	⩾	
+\lneq	⪇	
+\gneq	⪈	
+\preceq	⪯	
+\succeq	⪰	
+\precneqq	⪵	
+\succneqq	⪶	
+_j	ⱼ	
+\mathfrak{A}	𝔄	
+\mathfrak{B}	𝔅	
+\mathfrak{D}	𝔇	
+\mathfrak{E}	𝔈	
+\mathfrak{F}	𝔉	
+\mathfrak{G}	𝔊	
+\mathfrak{J}	𝔍	
+\mathfrak{K}	𝔎	
+\mathfrak{L}	𝔏	
+\mathfrak{M}	𝔐	
+\mathfrak{N}	𝔑	
+\mathfrak{O}	𝔒	
+\mathfrak{P}	𝔓	
+\mathfrak{Q}	𝔔	
+\mathfrak{S}	𝔖	
+\mathfrak{T}	𝔗	
+\mathfrak{U}	𝔘	
+\mathfrak{V}	𝔙	
+\mathfrak{X}	𝔛	
+\mathfrak{Y}	𝔜	
+\mathfrak{a}	𝔞	
+\mathfrak{b}	𝔟	
+\mathfrakc	𝔠	
+\mathfrak{c}	𝔠	
+\mathfrak{d}	𝔡	
+\mathfrak{e}	𝔢	
+\mathfrak{f}	𝔣	
+\mathfrak{g}	𝔤	
+\mathfrak{h}	𝔥	
+\mathfrak{i}	𝔦	
+\mathfrak{j}	𝔧	
+\mathfrak{k}	𝔨	
+\mathfrak{l}	𝔩	
+\mathfrak{m}	𝔪	
+\mathfrak{n}	𝔫	
+\mathfrak{o}	𝔬	
+\mathfrak{p}	𝔭	
+\mathfrak{q}	𝔮	
+\mathfrak{r}	𝔯	
+\mathfrak{s}	𝔰	
+\mathfrak{t}	𝔱	
+\mathfrak{u}	𝔲	
+\mathfrak{v}	𝔳	
+\mathfrak{x}	𝔵	
+\mathfrak{y}	𝔶	
+\mathfrak{z}	𝔷	
+\mathbb{A}	𝔸	
+\mathbb{B}	𝔹	
+\mathbb{D}	𝔻	
+\mathbb{E}	𝔼	
+\mathbb{F}	𝔽	
+\mathbb{G}	𝔾	
+\mathbb{I}	𝕀	
+\mathbb{J}	𝕁	
+\mathbb{K}	𝕂	
+\mathbb{L}	𝕃	
+\mathbb{M}	𝕄	
+\mathbb{O}	𝕆	
+\mathbb{S}	𝕊	
+\mathbb{T}	𝕋	
+\mathbb{U}	𝕌	
+\mathbb{V}	𝕍	
+\mathbb{X}	𝕏	
+\mathbb{Y}	𝕐	
+\mathbb{a}	𝕒	
+\mathbb{b}	𝕓	
+\mathbb{c}	𝕔	
+\mathbb{d}	𝕕	
+\mathbb{e}	𝕖	
+\mathbb{f}	𝕗	
+\mathbb{g}	𝕘	
+\mathbb{h}	𝕙	
+\mathbb{i}	𝕚	
+\mathbb{j}	𝕛	
+\mathbb{k}	𝕜	
+\mathbb{l}	𝕝	
+\mathbb{m}	𝕞	
+\mathbb{n}	𝕟	
+\mathbb{o}	𝕠	
+\mathbb{p}	𝕡	
+\mathbb{q}	𝕢	
+\mathbb{r}	𝕣	
+\mathbb{s}	𝕤	
+\mathbb{t}	𝕥	
+\mathbb{u}	𝕦	
+\mathbb{v}	𝕧	
+\mathbb{x}	𝕩	
+\mathbb{y}	𝕪	
+\mathbb{z}	𝕫	
+\mathbb{0}	𝟘	
+\mathbb{1}	𝟙	
+\mathbb{2}	𝟚	
+\mathbb{3}	𝟛	
+\mathbb{4}	𝟜	
+\mathbb{5}	𝟝	
+\mathbb{6}	𝟞	
+\mathbb{7}	𝟟	
+\mathbb{8}	𝟠	
+\mathbb{9}	𝟡	
