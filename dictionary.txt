@@ -199,6 +199,7 @@ _t	ₜ
 \circ	∘	
 \bullet	∙	
 \surd	√	
+\sqrt	√	
 \propto	∝	
 \inf	∞	
 \infty	∞	
