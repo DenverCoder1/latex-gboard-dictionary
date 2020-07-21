@@ -391,6 +391,8 @@ _j	ⱼ
 \mathfrakx	𝔵	
 \mathfraky	𝔶	
 \mathfrakz	𝔷	
+\mathfrakW	𝔚	
+\mathfrakw	𝔴	
 \mathbbA	𝔸	
 \mathbbB	𝔹	
 \mathbbD	𝔻	
@@ -407,6 +409,7 @@ _j	ⱼ
 \mathbbT	𝕋	
 \mathbbU	𝕌	
 \mathbbV	𝕍	
+\mathbbW	𝕎	
 \mathbbX	𝕏	
 \mathbbY	𝕐	
 \mathbba	𝕒	
@@ -431,6 +434,7 @@ _j	ⱼ
 \mathbbt	𝕥	
 \mathbbu	𝕦	
 \mathbbv	𝕧	
+\mathbbw	𝕨	
 \mathbbx	𝕩	
 \mathbby	𝕪	
 \mathbbz	𝕫	
