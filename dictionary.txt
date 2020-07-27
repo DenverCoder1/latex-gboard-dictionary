@@ -232,6 +232,12 @@ _t	ₜ
 \bullet	∙	
 \surd	√	
 \sqrt	√	
+^3\sqrt	∛	
+^4\sqrt	∜	
+\cuberoot	∛	
+\fourthroot	∜	
+\3root	∛	
+\4root	∜	
 \propto	∝	
 \inf	∞	
 \infty	∞	
@@ -254,7 +260,11 @@ _t	ₜ
 \int	∫	
 \iint	∬	
 \iiint	∭	
+\intclockwise	∱	
+\intctrclockwise	⨑	
 \oint	∮	
+\varointclockwise	∲	
+\ointctrclockwise	∳	
 \surfintegral	∯	
 \volintegral	∰	
 \therefore	∴	
@@ -279,6 +289,7 @@ _t	ₜ
 \neq	≠	
 \equivalent	≡	
 \equiv	≡	
+\Equiv	≣	
 \not\equiv	≢	
 \leq	≤	
 \geq	≥	
