@@ -241,6 +241,11 @@ _t	ₜ
 \propto	∝	
 \inf	∞	
 \infty	∞	
+^\inf	᪲	
+^\infty	᪲	
+_\inf	 ͚	
+_\infty	 ͚	
+\intinf	∫₋ ᪲ ͚ 	
 \angle	∠	
 \measuredangle	∡	
 \sphericalangle	∢	
