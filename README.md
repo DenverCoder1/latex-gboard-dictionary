@@ -1,6 +1,6 @@
 # LaTeX Gboard Dictionary
 
-Gboard Dictionary for LaTeX shortcuts
+Gboard Dictionary for LaTeX shortcuts on Android devices
 
 [Download](https://github.com/eyl327/LaTeX-Gboard-Dictionary/archive/v7.0.zip) as a zip folder to import into Gboard
 
