@@ -122,6 +122,16 @@ _\gamma	ᵧ
 _\rho	ᵨ	
 _\phi	ᵩ	
 _\chi	ᵪ	
+_beta	ᵦ	
+_gamma	ᵧ	
+_rho	ᵨ	
+_phi	ᵩ	
+_chi	ᵪ	
+_β	ᵦ	
+_γ	ᵧ	
+_ρ	ᵨ	
+_ϕ	ᵩ	
+_χ	ᵪ	
 _+	₊	
 ^+	⁺	
 _-	₋	
@@ -186,6 +196,12 @@ _t	ₜ
 \uparrow	↑	
 \rightarrow	→	
 \to	→	
+\rightarrow	→	
+^\rightarrow	⃗	
+^rightarrow	⃗	
+^\to	⃗	
+^to	⃗	
+^→	⃗	
 \downarrow	↓	
 \leftrightarrow	↔	
 \nwarrow	↖	
@@ -243,8 +259,14 @@ _t	ₜ
 \infty	∞	
 ^\inf	᪲	
 ^\infty	᪲	
+^∞	᪲	
+^inf	᪲	
+^infty	᪲	
 _\inf	 ͚	
 _\infty	 ͚	
+_∞	 ͚	
+_inf	 ͚	
+_infty	 ͚	
 \intinf	∫₋ ᪲ ͚ 	
 \angle	∠	
 \measuredangle	∡	
