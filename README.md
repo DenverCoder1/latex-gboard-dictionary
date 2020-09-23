@@ -14,7 +14,7 @@ Shortcuts for Gboard are supported on all Android devices. As of now, these shor
 
 https://www.youtube.com/watch?v=bGWikJu37WI
 
-[<img alt="Watch on YouTube" title="Watch on YouTube" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/>][download]
+[<img alt="Watch on YouTube" title="Watch on YouTube" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/>][tutorial]
 
 
 ## Contact me
@@ -36,3 +36,4 @@ https://www.youtube.com/watch?v=bGWikJu37WI
 <a href="https://ko-fi.com/jlawrence">☕ Buy me a coffee</a>
 
 [download]: https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/v10.0.zip
+[tutorial]: https://www.youtube.com/watch?v=bGWikJu37WI
