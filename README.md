@@ -8,13 +8,13 @@ Shortcuts for Gboard are supported on all Android devices. As of now, these shor
 
 [Download][download] as a zip folder to import into Gboard
 
-[<img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=docusign&logoColor=white"/>][download]
+[<img alt="Download zip" title="Download zip" src="https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=docusign&logoColor=white"/>][download]
 
 ## Tutorial on Youtube
 
 https://www.youtube.com/watch?v=bGWikJu37WI
 
-[<img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/>][download]
+[<img alt="Watch on YouTube" title="Watch on YouTube" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/>][download]
 
 
 ## Contact me
