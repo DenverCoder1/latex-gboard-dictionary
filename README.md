@@ -8,7 +8,7 @@ Shortcuts for Gboard are supported on all Android devices. As of now, these shor
 
 [Download][download] as a zip folder to import into Gboard
 
-[<img alt="Download zip" title="Download zip" src="https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=docusign&logoColor=white"/>][download]
+[<img alt="Download zip" title="Download zip" src="https://img.shields.io/badge/Download-10.0-blue?style=for-the-badge&logo=docusign&logoColor=white&labelColor=00588b"/>][download]
 
 ## Tutorial on Youtube
 
