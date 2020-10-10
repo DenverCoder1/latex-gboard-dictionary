@@ -848,3 +848,11 @@ _j	ⱼ
 \monoY	𝚈	
 \monoz	𝚣	
 \monoZ	𝚉	
+\spadesuit	♠	
+\heartsuit	♡	
+\clubsuit	♣	
+\diamondsuit	♢	
+\varspadesuit	♤	
+\varheartsuit	♥	
+\varclubsuit	♧	
+\vardiamondsuit	♦	
