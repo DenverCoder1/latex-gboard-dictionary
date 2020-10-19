@@ -612,7 +612,7 @@ _j	ⱼ
 \mathbbf	𝕗	
 \mathbbg	𝕘	
 \mathbbh	𝕙	
-\mathbbi  𝕚	
+\mathbbi	𝕚	
 \mathbbj	𝕛	
 \mathbbk	𝕜	
 \mathbbl	𝕝	
@@ -856,4 +856,4 @@ _j	ⱼ
 \varheartsuit	♥	
 \varclubsuit	♧	
 \vardiamondsuit	♦	
-\para  ¶
+\par	¶	
