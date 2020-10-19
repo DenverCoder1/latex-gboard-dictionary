@@ -856,3 +856,4 @@ _j	ⱼ
 \varheartsuit	♥	
 \varclubsuit	♧	
 \vardiamondsuit	♦	
+\par	¶	
