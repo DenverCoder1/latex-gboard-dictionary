@@ -856,4 +856,4 @@ _j	ⱼ
 \varheartsuit	♥	
 \varclubsuit	♧	
 \vardiamondsuit	♦	
-\sigma  σ
+\para  ¶
