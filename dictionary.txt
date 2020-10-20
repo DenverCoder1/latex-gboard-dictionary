@@ -857,3 +857,4 @@ _j	ⱼ
 \varclubsuit	♧	
 \vardiamondsuit	♦	
 \par	¶	
+\sec	§	
