@@ -858,3 +858,7 @@ _j	ⱼ
 \vardiamondsuit	♦	
 \par	¶	
 \sec	§	
+\lrblacktriangle	◢	
+\llblacktriangle	◣	
+\ulblacktriangle	◤	
+\urblacktriangle	◥	
