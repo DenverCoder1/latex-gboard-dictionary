@@ -862,3 +862,13 @@ _j	ⱼ
 \llblacktriangle	◣	
 \ulblacktriangle	◤	
 \urblacktriangle	◥	
+_plus	₊	
+^plus	⁺	
+_minus	₋	
+^minus	⁻	
+_eq	₌	
+^eq	⁼	
+^lp	⁽	
+^rp	⁾	
+_lp	₍	
+_rp	₎	
