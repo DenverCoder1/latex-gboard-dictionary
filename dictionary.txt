@@ -872,3 +872,5 @@ _eq	₌
 ^rp	⁾	
 _lp	₍	
 _rp	₎	
+\hbar	ħ	
+\hslash	ħ	
