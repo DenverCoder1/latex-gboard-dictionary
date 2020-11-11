@@ -873,4 +873,4 @@ _eq	₌
 _lp	₍	
 _rp	₎	
 \hbar	ħ	
-\hslash	ħ	
+\hslash	ℏ	
