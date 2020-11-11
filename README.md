@@ -8,7 +8,7 @@ Shortcuts for Gboard are supported on all Android devices. As of now, these shor
 
 [Download][download] as a zip folder to import into Gboard
 
-[<img alt="Download zip" title="Download zip" src="https://img.shields.io/badge/Download-13.0-blue?style=for-the-badge&logo=docusign&logoColor=white&labelColor=00588b"/>][download]
+[<img alt="Download zip" title="Download zip" src="https://img.shields.io/badge/Download-13.1-blue?style=for-the-badge&logo=docusign&logoColor=white&labelColor=00588b"/>][download]
 
 ## Tutorial on Youtube
 
@@ -35,5 +35,5 @@ https://www.youtube.com/watch?v=bGWikJu37WI
 
 <a href="https://ko-fi.com/jlawrence">☕ Buy me a coffee</a>
 
-[download]: https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/v13.0.zip
+[download]: https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/v13.1.zip
 [tutorial]: https://www.youtube.com/watch?v=bGWikJu37WI
