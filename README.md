@@ -1,5 +1,10 @@
 # LaTeX Gboard Dictionary
 
+<p align="left">
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+
 Gboard Dictionary for easily typing unicode symbols with shortcuts based on LaTeX.
 
 Shortcuts for Gboard are supported on all Android devices. As of now, these shortcuts cannot be imported to iOS devices.
