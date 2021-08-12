@@ -1,0 +1,27 @@
+# This workflow will validate the dictionary.txt file by checking each line against a regex
+name: Lint Dictionary
+
+on:
+  pull_request:
+    branches:
+      - master
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Lint dictionary.txt
+      run: |
+        # find all lines that do not match the regex
+        INVALID_LINES=$(grep -v -n -P -e '^(\S*?\t.*?\t|# Gboard Dictionary version:1)$' dictionary.txt)
+        # ensure that output is not empty
+        if [ "$INVALID_LINES" != "" ]; then
+            echo "ERROR: Invalid lines in dictionary.txt"
+            echo "$INVALID_LINES"
+            exit 1
+        fi
