@@ -1,0 +1,21 @@
+# This workflow will validate the dictionary.txt file by checking each line against a regex
+name: Lint Dictionary
+
+on:
+  pull_request:
+    branches:
+      - master
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Lint dictionary
+      run: |
+        chmod +x "${GITHUB_WORKSPACE}/.github/lint.sh"
+        "${GITHUB_WORKSPACE}/.github/lint.sh" "${GITHUB_WORKSPACE}/dictionary.txt"
