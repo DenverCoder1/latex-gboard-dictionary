@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Lint dictionary.txt
-    - run: |
+    - name: Lint dictionary
+      run: |
         chmod +x "${GITHUB_WORKSPACE}/.github/script.sh"
         "${GITHUB_WORKSPACE}/.github/lint.sh" "${GITHUB_WORKSPACE}/dictionary.txt"
