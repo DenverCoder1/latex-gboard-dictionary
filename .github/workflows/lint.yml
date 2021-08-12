@@ -18,7 +18,7 @@ jobs:
     - name: Lint dictionary.txt
       run: |
         echo "Validating dictionary.txt"
-        INVALID_LINES=$(grep -v -n -P -e '^(\S*?\t.*?\t|# Gboard Dictionary version:1)$' dictionary.txt)
+        INVALID_LINES=$(grep -v -n -P -e '^(\S*?\t.*?\t|# Gboard Dictionary version:1)$' ${GITHUB_WORKSPACE}/dictionary.txt)
         if [ "$INVALID_LINES" != "" ]; then
             echo "ERROR: Invalid lines in dictionary.txt"
             echo "$INVALID_LINES"
