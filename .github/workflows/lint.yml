@@ -17,11 +17,12 @@ jobs:
     - uses: actions/checkout@v2
     - name: Lint dictionary.txt
       run: |
-        # find all lines that do not match the regex
+        echo "Validating dictionary.txt"
         INVALID_LINES=$(grep -v -n -P -e '^(\S*?\t.*?\t|# Gboard Dictionary version:1)$' dictionary.txt)
-        # ensure that output is not empty
         if [ "$INVALID_LINES" != "" ]; then
             echo "ERROR: Invalid lines in dictionary.txt"
             echo "$INVALID_LINES"
             exit 1
         fi
+        echo "Dictionary.txt is valid"
+        exit 0
