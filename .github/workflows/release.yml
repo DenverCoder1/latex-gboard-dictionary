@@ -1,24 +1,41 @@
-name: 'Release'
+name: "Release"
+
 on:
   push:
     tags:
-      - '*'
+      - "*"
 
 jobs:
   release:
     if: startsWith(github.ref, 'refs/tags/')
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+
       - name: Build Changelog
         id: github_release
         uses: mikepenz/release-changelog-builder-action@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+      - name: Count shortcuts in dictionary
+        id: count-shortcuts
+        run: echo '::set-output name=COUNT::$(tail -n +2 dictionary.txt | wc -l)'
+
+      - name: Update readme
+        id: update-readme
+        run: |
+          UPDATE=$(cat README.md | sed -E 's$(https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/).*$\1${{steps.github_release.outputs.changelog}}$g')
+          echo "${UPDATE}" > README.md
+
+      - uses: EndBug/add-and-commit@v7
+        with:
+          default_author: github_actions
 
       - name: Create Release
         uses: actions/create-release@v1
         with:
-          tag_name: ${{ github.ref }}
+          tag_name: "${{ github.ref }} - ${{ steps.count-shortcuts.outputs.COUNT }} shortcuts"
           release_name: ${{ github.ref }}
           body: ${{steps.github_release.outputs.changelog}}
         env:
