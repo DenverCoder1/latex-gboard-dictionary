@@ -10,7 +10,8 @@ Gboard Dictionary for easily typing unicode symbols with shortcuts based on LaTe
 Shortcuts for Gboard are supported on all Android devices. As of now, these shortcuts cannot be imported to iOS devices.
 
 ## Usage
-It's as simple as typing \R or \sum on the keyboard and tapping the suggested symbol!
+
+It's as simple as typing `\R` or `\sum` on the keyboard and tapping the suggested symbol!
 
 ## Download
 
