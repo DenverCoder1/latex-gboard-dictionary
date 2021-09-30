@@ -1,42 +1,70 @@
-name: "Release"
+name: "Automatic Release"
 
 on:
   push:
-    tags:
-      - "*"
+    branches:
+      - master
+  workflow_dispatch:
 
 jobs:
   release:
-    if: startsWith(github.ref, 'refs/tags/')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
-      - name: Build Changelog
-        id: github_release
-        uses: mikepenz/release-changelog-builder-action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Get latest release
+        id: get-latest-release
+        uses: InsonusK/get-latest-release@v1.0.1
+        with:
+          myToken: ${{ github.token }}
+          view_top: 1
+      
+      - name: Get next tag
+        id: next-tag
+        run: |
+          prev_version=$(echo "${{ steps.get-latest-release.outputs.tag_name }}" | sed -E 's/\..*//g')
+          next_version=$((prev_version+1))
+          echo "Previous version: $((prev_version))"
+          echo "Next version: $((next_version))"
+          echo "::set-output name=tag::$((prev_version+1)).0"
+          
+      - name: Create tag
+        uses: tvdias/github-tagger@v0.0.1
+        continue-on-error: true
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          tag: ${{ steps.next-tag.outputs.tag }}
         
       - name: Count shortcuts in dictionary
         id: count-shortcuts
-        run: echo '::set-output name=COUNT::$(tail -n +2 dictionary.txt | wc -l)'
+        run: echo "::set-output name=count::$(tail -n +2 dictionary.txt | wc -l)"
+
+      - uses: DenverCoderOne/release-with-changelog@main
+        id: release-with-changelog
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          exclude: '^meta|^docs|^document|^lint|^ci|^refactor|readme|workflow|bump|dependencies|yml|^v?\d+\.\d+\.\d+'
+          tag: 'HEAD'
+          title: '${{ steps.next-tag.outputs.tag }} - ${{ steps.count-shortcuts.outputs.count }} shortcuts'
+          commit-template: '- {hash} {title}'
+          skip-on-empty: true
+          template: |
+            ### Changelog
+
+            {commits}
+
+            {range}
 
       - name: Update readme
         id: update-readme
         run: |
-          UPDATE=$(cat README.md | sed -E 's$(https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/).*$\1${{steps.github_release.outputs.changelog}}$g')
-          echo "${UPDATE}" > README.md
+          # if the release was not skipped, update the download link in the readme
+          if [ "${{ steps.release-with-changelog.outputs.skipped }}" == "false" ]; then
+            UPDATE=$(cat README.md | sed -E 's|(https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/).*|\1${{ steps.next-tag.outputs.tag }}.zip|g')
+            echo "${UPDATE}" > README.md
+          fi
 
       - uses: EndBug/add-and-commit@v7
         with:
+          message: 'docs: Bump version to ${{ steps.next-tag.outputs.tag }}'
           default_author: github_actions
-
-      - name: Create Release
-        uses: actions/create-release@v1
-        with:
-          tag_name: "${{ github.ref }} - ${{ steps.count-shortcuts.outputs.COUNT }} shortcuts"
-          release_name: ${{ github.ref }}
-          body: ${{steps.github_release.outputs.changelog}}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
