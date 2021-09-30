@@ -874,4 +874,5 @@ _lp	₍
 _rp	₎	
 \hbar	ħ	
 \hslash	ℏ	
+\dagger	‡	
 -	−	
