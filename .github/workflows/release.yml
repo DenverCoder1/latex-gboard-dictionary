@@ -52,20 +52,21 @@ jobs:
             {commits}
 
             {range}
-
-      - name: Update Readme or Delete Tag
+            
+      - name: Delete tag if release skipped
+        if: ${{ steps.release-with-changelog.outputs.skipped == 'true' }}
         run: |
-          # if the release was not skipped, update the download link in the readme
-          if [ "${{ steps.release-with-changelog.outputs.skipped }}" == "false" ]; then
-            UPDATE=$(cat README.md | sed -E 's|(https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/).*|\1${{ steps.next-tag.outputs.tag }}.zip|g')
-            echo "${UPDATE}" > README.md
-          # if the release was skipped, delete the last created tag
-          else
-            git tag -d ${{ steps.next-tag.outputs.tag }}
-            git push origin :refs/tags/${{ steps.next-tag.outputs.tag }}
-          fi
+          git tag -d ${{ steps.next-tag.outputs.tag }}
+          git push origin :refs/tags/${{ steps.next-tag.outputs.tag }}
+
+      - name: Update readme
+        if: ${{ steps.release-with-changelog.outputs.skipped == 'false' }}
+        run: |
+          UPDATE=$(cat README.md | sed -E 's|(https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/).*|\1${{ steps.next-tag.outputs.tag }}.zip|g')
+          echo "${UPDATE}" > README.md
 
       - uses: EndBug/add-and-commit@v7
+        if: ${{ steps.release-with-changelog.outputs.skipped == 'false' }}
         with:
           message: 'docs: Bump version to ${{ steps.next-tag.outputs.tag }}'
           default_author: github_actions
