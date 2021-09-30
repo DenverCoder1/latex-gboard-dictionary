@@ -44,7 +44,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           exclude: '^meta|^docs|^document|^lint|^ci|^refactor|readme|workflow|bump|dependencies|yml|^v?\d+\.\d+\.\d+'
-          tag: 'HEAD'
+          tag: ${{ steps.next-tag.outputs.tag }}
           title: '${{ steps.next-tag.outputs.tag }} - ${{ steps.count-shortcuts.outputs.count }} shortcuts'
           commit-template: '- {hash} {title}'
           skip-on-empty: true
