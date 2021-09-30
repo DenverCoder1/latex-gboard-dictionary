@@ -491,7 +491,11 @@ _infty	 ͚
 \nsucc	⊁	
 \subset	⊂	
 \supset	⊃	
+\nsubset	⊄	
+\notsubset	⊄	
 \not\subset	⊄	
+\nsupset	⊅	
+\notsupset	⊅	
 \not\supset	⊅	
 \subseteq	⊆	
 \supseteq	⊇	
