@@ -23,14 +23,12 @@ jobs:
         id: next-tag
         run: |
           prev_version=$(echo "${{ steps.get-latest-release.outputs.tag_name }}" | sed -E 's/\..*//g')
-          next_version=$((prev_version+1))
           echo "Previous version: $((prev_version))"
-          echo "Next version: $((next_version))"
+          echo "Next version: $((prev_version+1))"
           echo "::set-output name=tag::$((prev_version+1)).0"
           
       - name: Create tag
         uses: tvdias/github-tagger@v0.0.1
-        continue-on-error: true
         with:
           repo-token: "${{ secrets.GITHUB_TOKEN }}"
           tag: ${{ steps.next-tag.outputs.tag }}
@@ -55,13 +53,16 @@ jobs:
 
             {range}
 
-      - name: Update readme
-        id: update-readme
+      - name: Update Readme or Delete Tag
         run: |
           # if the release was not skipped, update the download link in the readme
           if [ "${{ steps.release-with-changelog.outputs.skipped }}" == "false" ]; then
             UPDATE=$(cat README.md | sed -E 's|(https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/).*|\1${{ steps.next-tag.outputs.tag }}.zip|g')
             echo "${UPDATE}" > README.md
+          # if the release was skipped, delete the last created tag
+          else
+            git tag -d ${{ steps.next-tag.outputs.tag }}
+            git push origin :refs/tags/${{ steps.next-tag.outputs.tag }}
           fi
 
       - uses: EndBug/add-and-commit@v7
