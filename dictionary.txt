@@ -867,6 +867,12 @@ _j	ⱼ
 \llblacktriangle	◣	
 \ulblacktriangle	◤	
 \urblacktriangle	◥	
+\bigblacktriangledown	▼	
+\bigblacktriangleup	▲	
+\blacktriangle	▴	
+\blacktriangledown	▾	
+\blacktriangleleft	◀	
+\blacktriangleright	▶
 _plus	₊	
 ^plus	⁺	
 _minus	₋	
@@ -885,10 +891,3 @@ _rp	₎
 -	−	
 \taurus	♉	
 \cancer	♋	
-\capricorn	♑︎
-\aquarius	♒︎
-\pisces ♓︎
-\sun  ☉
-\moon ☾
-\mercury  ☿
-\venus  ♀
