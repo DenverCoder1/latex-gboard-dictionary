@@ -907,4 +907,4 @@ _rp	₎
 \QED	∎	
 \male	♂	
 \female	♀	
-\ohm Ω
+\ohm	Ω	
