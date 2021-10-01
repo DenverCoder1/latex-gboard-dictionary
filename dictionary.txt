@@ -907,3 +907,4 @@ _rp	₎
 \QED	∎	
 \male	♂	
 \female	♀	
+\dalet	ℸ
