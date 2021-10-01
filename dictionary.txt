@@ -904,5 +904,6 @@ _rp	₎
 -	−	
 \taurus	♉	
 \cancer	♋	
+\QED	∎	
 \male	♂	
 \female	♀	
