@@ -15,7 +15,7 @@ if [ "$(head -n 1 $DICTIONARY)" != "# Gboard Dictionary version:1" ]; then
 fi
 
 echo "Checking that remaining lines are valid..."
-INVALID_LINES=$(tail -n +2 $DICTIONARY | grep -v -n -P -e '^(\S*?\t.*?\t)$')
+INVALID_LINES=$(grep -v -n -P -e '^(\S*?\t.*?\t)$' $DICTIONARY | tail -n +2)
 if [ "$INVALID_LINES" != "" ]; then
 		echo "❌ ERROR: Invalid lines in dictionary.txt"
 		echo "$INVALID_LINES"
