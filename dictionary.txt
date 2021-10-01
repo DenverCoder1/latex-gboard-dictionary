@@ -885,3 +885,10 @@ _rp	₎
 -	−	
 \taurus	♉	
 \cancer	♋	
+\capricorn	♑︎
+\aquarius	♒︎
+\pisces    ♓︎
+\sun    ☉
+\moon   ☾
+\mercury    ☿
+\venus    ♀
