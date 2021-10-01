@@ -868,8 +868,8 @@ _j	ⱼ
 \ulblacktriangle	◤	
 \urblacktriangle	◥	
 \bigblacktriangledown	▼ 
-\bigblacktriangleup ▲	
-\blacktriangle ▴
+\bigblacktriangleup	▲	
+\blacktriangle	▴
 \blacktriangledown	▾ 
 \blacktriangleleft	◀ 
 \blacktriangleright	▶ 
