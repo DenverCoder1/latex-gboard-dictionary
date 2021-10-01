@@ -63,6 +63,7 @@
 \varkappa	ϰ	
 \varrho	ϱ	
 \epsilon	ϵ	
+\gimel	ג	
 _i	ᵢ	
 _r	ᵣ	
 _u	ᵤ	
@@ -882,3 +883,4 @@ _rp	₎
 \ddagger	‡	
 \smalltilde	˜	
 -	−	
+\taurus	♉	
