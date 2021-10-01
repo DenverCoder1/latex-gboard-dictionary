@@ -63,7 +63,7 @@
 \varkappa	ϰ	
 \varrho	ϱ	
 \epsilon	ϵ	
-\gimel	ג		
+\gimel	ג	
 _i	ᵢ	
 _r	ᵣ	
 _u	ᵤ	
