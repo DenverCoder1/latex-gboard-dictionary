@@ -433,6 +433,7 @@ _infty	 ͚
 \vee	∨	
 \cap	∩	
 \cup	∪	
+\sqcup	⊔	
 \integral	∫	
 \int	∫	
 \iint	∬	
