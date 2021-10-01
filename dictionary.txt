@@ -867,6 +867,12 @@ _j	ⱼ
 \llblacktriangle	◣	
 \ulblacktriangle	◤	
 \urblacktriangle	◥	
+\bigblacktriangledown	▼	
+\bigblacktriangleup	▲	
+\blacktriangle	▴	
+\blacktriangledown	▾	
+\blacktriangleleft	◀	
+\blacktriangleright	▶	
 \texttrademark	™	
 \copyright	©	
 \circledR	®	
