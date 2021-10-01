@@ -866,7 +866,7 @@ _j	ⱼ
 \lrblacktriangle	◢	
 \llblacktriangle	◣	
 \ulblacktriangle	◤	
-\urblacktriangle	◥
+\urblacktriangle	◥	
 \texttrademark	™	
 \copyright	©	
 \circledR	®	
