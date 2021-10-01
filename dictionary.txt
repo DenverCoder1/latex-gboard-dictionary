@@ -913,3 +913,6 @@ _rp	₎
 \QED	∎	
 \male	♂	
 \female	♀	
+\doublebarvee	⩢	
+\doublebarwedge	⩞	
+\perspcorrespond	⩞	
