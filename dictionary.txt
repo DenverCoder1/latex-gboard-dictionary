@@ -926,5 +926,4 @@ _rp	₎
 \doublebarvee	⩢	
 \doublebarwedge	⩞	
 \perspcorrespond	⩞	
-\daleth  ℸ 
-
+\daleth	ℸ	
