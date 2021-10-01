@@ -434,6 +434,7 @@ _infty	 ͚
 \cap	∩	
 \cup	∪	
 \sqcup	⊔	
+\sqcap	⊓	
 \integral	∫	
 \int	∫	
 \iint	∬	
