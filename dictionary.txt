@@ -926,3 +926,5 @@ _rp	₎
 \doublebarvee	⩢	
 \doublebarwedge	⩞	
 \perspcorrespond	⩞	
+\dalet  ℸ 
+
