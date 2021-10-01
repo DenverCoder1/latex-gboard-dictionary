@@ -907,3 +907,5 @@ _rp	₎
 \QED	∎	
 \male	♂	
 \female	♀	
+\logicalandbar ⩞
+\logicalorbar ⩢
