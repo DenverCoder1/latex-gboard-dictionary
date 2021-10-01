@@ -887,8 +887,8 @@ _rp	₎
 \cancer	♋	
 \capricorn	♑︎
 \aquarius	♒︎
-\pisces    ♓︎
-\sun    ☉
-\moon   ☾
-\mercury    ☿
-\venus    ♀
+\pisces ♓︎
+\sun  ☉
+\moon ☾
+\mercury  ☿
+\venus  ♀
