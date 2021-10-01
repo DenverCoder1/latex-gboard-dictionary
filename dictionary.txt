@@ -862,7 +862,7 @@ _j	ⱼ
 \varclubsuit	♧	
 \vardiamondsuit	♦	
 \par	¶	
-\sec	§	
+\S	§	
 \lrblacktriangle	◢	
 \llblacktriangle	◣	
 \ulblacktriangle	◤	
