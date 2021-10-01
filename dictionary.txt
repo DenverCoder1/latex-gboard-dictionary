@@ -885,5 +885,5 @@ _rp	₎
 -	−	
 \taurus	♉	
 \cancer	♋	
-\male   ♂  
-\female ♀   
+\male   ♂    
+\female ♀       
