@@ -901,6 +901,7 @@ _rp	₎
 \frac58	⅝	
 \frac78	⅞	
 \co	℅	
+\sm	☃	
 -	−	
 \taurus	♉	
 \cancer	♋	
