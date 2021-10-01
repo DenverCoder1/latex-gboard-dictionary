@@ -866,7 +866,10 @@ _j	ⱼ
 \lrblacktriangle	◢	
 \llblacktriangle	◣	
 \ulblacktriangle	◤	
-\urblacktriangle	◥	
+\urblacktriangle	◥
+\texttrademark	™	
+\copyright	©	
+\circledR	®	
 _plus	₊	
 ^plus	⁺	
 _minus	₋	
@@ -885,4 +888,3 @@ _rp	₎
 -	−	
 \taurus	♉	
 \cancer	♋	
-\aries	♈	
