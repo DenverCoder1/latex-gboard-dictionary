@@ -907,5 +907,6 @@ _rp	₎
 \QED	∎	
 \male	♂	
 \female	♀	
-\logicalandbar  ⩞ 	
-\logicalorbar ⩢ 	
+\doublebarvee	⩢	
+\doublebarwedge	⩞	
+\perspcorrespond	⩞	
