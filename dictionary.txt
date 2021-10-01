@@ -882,4 +882,4 @@ _rp	₎
 \ddagger	‡	
 \smalltilde	˜	
 -	−	
-\taurus ♉  
+\taurus	♉	
