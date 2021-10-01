@@ -84,7 +84,14 @@ _beta	ᵦ
 _gamma	ᵧ	
 _rho	ᵨ	
 _phi	ᵩ	
-_chi	ᵪ	
+_chi	ᵪ		
+^alpha	ᵅ	
+^beta	ᵝ	
+^chi	ᵡ	
+^delta	ᵟ	
+^gamma	ᵞ		
+^iota	ᶥ	
+^phi	ᵠ	
 _β	ᵦ	
 _γ	ᵧ	
 _ρ	ᵨ	
