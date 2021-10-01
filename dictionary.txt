@@ -867,6 +867,12 @@ _j	ⱼ
 \llblacktriangle	◣	
 \ulblacktriangle	◤	
 \urblacktriangle	◥	
+\bigblacktriangledown	▼	
+\bigblacktriangleup	▲	
+\blacktriangle	▴	
+\blacktriangledown	▾	
+\blacktriangleleft	◀	
+\blacktriangleright	▶	
 \texttrademark	™	
 \copyright	©	
 \circledR	®	
@@ -908,3 +914,6 @@ _rp	₎
 \male	♂	
 \female	♀	
 \ohm	Ω	
+\doublebarvee	⩢	
+\doublebarwedge	⩞	
+\perspcorrespond	⩞	
