@@ -861,7 +861,7 @@ _j	ⱼ
 \varclubsuit	♧	
 \vardiamondsuit	♦	
 \par	¶	
-\sec	§	
+\S	§	
 \lrblacktriangle	◢	
 \llblacktriangle	◣	
 \ulblacktriangle	◤	
@@ -881,5 +881,4 @@ _rp	₎
 \dagger	†	
 \ddagger	‡	
 \smalltilde	˜
-\sectionsign §
 -	−	
