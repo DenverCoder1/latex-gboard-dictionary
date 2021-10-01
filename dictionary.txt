@@ -880,5 +880,6 @@ _rp	₎
 \hslash	ℏ	
 \dagger	†	
 \ddagger	‡	
-\smalltilde	˜	
+\smalltilde	˜
+\sectionsign §
 -	−	
