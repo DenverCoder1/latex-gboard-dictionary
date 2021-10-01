@@ -913,6 +913,7 @@ _rp	₎
 \QED	∎	
 \male	♂	
 \female	♀	
+\ohm	Ω	
 \doublebarvee	⩢	
 \doublebarwedge	⩞	
 \perspcorrespond	⩞	
