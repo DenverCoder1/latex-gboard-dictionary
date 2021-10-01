@@ -869,7 +869,7 @@ _j	ⱼ
 \urblacktriangle	◥	
 \bigblacktriangledown	▼ 
 \bigblacktriangleup	▲	
-\blacktriangle	▴ 
+\blacktriangle  ▴ 
 \blacktriangledown	▾ 
 \blacktriangleleft	◀ 
 \blacktriangleright	▶ 
