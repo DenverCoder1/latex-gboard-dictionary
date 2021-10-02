@@ -90,6 +90,7 @@ _chi	ᵪ
 ^chi	ᵡ	
 ^delta	ᵟ	
 ^gamma	ᵞ	
+^theta	ᶿ	
 ^iota	ᶥ	
 ^phi	ᵠ	
 _β	ᵦ	
