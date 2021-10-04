@@ -929,3 +929,4 @@ _rp	₎
 \perspcorrespond	⩞	
 \daleth	ℸ	
 ^epsilon	ᵋ	
+\rightangle	∟
