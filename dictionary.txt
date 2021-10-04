@@ -930,4 +930,4 @@ _rp	₎
 \daleth	ℸ	
 ^epsilon	ᵋ	
 \rightangle	∟	
-\starequals ≛ 
+\starequals	≛	
