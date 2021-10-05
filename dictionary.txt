@@ -930,3 +930,7 @@ _rp	₎
 \daleth	ℸ	
 ^epsilon	ᵋ	
 \rightangle	∟	
+\rupee	₹	
+\dollar	$	
+\euro	€	
+\yen	¥	
