@@ -933,4 +933,4 @@ _rp	₎
 \rupee	₹	
 \dollar	$	
 \euro	€	
-\japyen	¥	
+\yen	¥	
