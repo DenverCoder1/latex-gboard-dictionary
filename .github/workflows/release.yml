@@ -37,7 +37,7 @@ jobs:
         id: count-shortcuts
         run: echo "::set-output name=count::$(tail -n +2 dictionary.txt | wc -l)"
 
-      - uses: fregante/release-with-changelog@main
+      - uses: fregante/release-with-changelog@v3
         id: release-with-changelog
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
