@@ -934,4 +934,4 @@ _rp	₎
 \dollar	$	
 \euro	€	
 \yen	¥	
-\geometricproportion   ∺   
+\dotsminusdots	∺	
