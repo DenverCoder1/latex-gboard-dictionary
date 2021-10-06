@@ -935,4 +935,4 @@ _rp	₎
 \euro	€	
 \yen	¥	
 \dotsminusdots	∺	
-\starequals	≛	
+\starequal	≛	
