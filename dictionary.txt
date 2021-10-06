@@ -934,4 +934,5 @@ _rp	₎
 \dollar	$	
 \euro	€	
 \yen	¥	
+\dotsminusdots	∺	
 \starequals	≛	
