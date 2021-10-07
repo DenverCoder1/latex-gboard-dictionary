@@ -17,7 +17,7 @@
 ## Pull Request
 * Add upstream as the main repository using `git remote add upstream https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary.git` command in terminal.
 * Push changes to origin i.e. your forked repository.
-* Before making pull request whether your forked repository is updated. For this use `git pull upstream main` command in the terminal.
+* Before making pull request whether your forked repository is updated. For this use `git pull upstream master` command in the terminal.
 * Make sure to test the file after making changes by making a compressed folder (zip) containing the txt file in a folder.
 * Create a pull request with relevant heading. 
 * Add supporting screenshots to establish the areas you have worked on.
