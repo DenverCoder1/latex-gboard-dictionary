@@ -936,3 +936,6 @@ _rp	₎
 \yen	¥	
 \dotsminusdots	∺	
 \starequal	≛	
+\ruble	₽	
+\hryvnia	₴	
+\lira	₺	
