@@ -1,3 +1,15 @@
+## Notes about Formatting
+Gboard requires a very specific format for shortcut files to work.
+![format](https://user-images.githubusercontent.com/20955511/95510460-a153ec00-09be-11eb-8400-4aca07484973.png)
+Each line of the file containing a shortcut must have: the shortcut (ex. `\sum`), a single tab (` `), the symbol (ex. `∑`), and another a single tab (` `) at the end of the line.
+
+**Note**: Some editors automatically convert tabs to spaces, you can try to avoid this by copy-pasting the tabs from a different line to ensure the spacing is correct.
+
+## Shortcut guidelines
+Shortcuts must be the same as the command from LaTeX or resemble the LaTeX shortcuts. If typing the symbol is complex in LaTeX, a shorter shortcut may be used as long as it is in the style of LaTeX commands.
+
+It is at the discretion of the project maintainer to decide whether a certain shortcut should be accepted or not.
+
 ## Setup
 * Fork the Repository.
 * Clone it to the local machine. This can be done either by using `git clone https://github.com/<your_github_username>/LaTeX-Gboard-Dictionary` or directly by using github desktop.
