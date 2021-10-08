@@ -14,7 +14,7 @@ It is at the discretion of the project maintainer to decide whether a certain sh
 
 ## Setup
 * Fork the Repository.
-* Clone it to the local machine. This can be done either by using `git clone https://github.com/<your_github_username>/LaTeX-Gboard-Dictionary` or directly by using github desktop.
+* Clone it to the local machine. This can be done either by using `git clone https://github.com/<your_github_username>/LaTeX-Gboard-Dictionary.git` or directly by using github desktop.
 * Open the folder on VS Code.
 
 ## Issues
