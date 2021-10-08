@@ -1,6 +1,8 @@
 ## Notes about Formatting
 Gboard requires a very specific format for shortcut files to work.
+
 ![format](https://user-images.githubusercontent.com/20955511/95510460-a153ec00-09be-11eb-8400-4aca07484973.png)
+
 Each line of the file containing a shortcut must have: the shortcut (ex. `\sum`), a single tab (` `), the symbol (ex. `∑`), and another a single tab (` `) at the end of the line.
 
 **Note**: Some editors automatically convert tabs to spaces, you can try to avoid this by copy-pasting the tabs from a different line to ensure the spacing is correct.
