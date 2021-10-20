@@ -939,5 +939,5 @@ _rp	₎
 \ruble	₽	
 \hryvnia    ₴	
 \lira	₺	
-\cancela	ⱥ
-\cancelA	Ⱥ
+\cancela	a̷
+\cancelA	A̷
