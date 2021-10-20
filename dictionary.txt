@@ -937,7 +937,7 @@ _rp	₎
 \dotsminusdots	∺	
 \starequal	≛	
 \ruble	₽	
-\hryvnia	₴	
+\hryvnia    ₴	
 \lira	₺	
-\cancela    ⱥ
-\cancelA    Ⱥ
+\cancela	ⱥ
+\cancelA	Ⱥ
