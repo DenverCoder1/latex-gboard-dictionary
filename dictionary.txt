@@ -948,7 +948,7 @@ _rp	₎
 \canceld	d̷	
 \cancelD	D̷	
 \cancele	e̷	
-\cancelE	E̷		
+\cancelE	E̷	
 \cancelf	f̷	
 \cancelF	F̷	
 \cancelg	g̷	
