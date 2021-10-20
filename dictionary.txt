@@ -940,4 +940,4 @@ _rp	₎
 \hryvnia	₴
 \lira	₺
 \cancela    ⱥ
-
+\cancelA    Ⱥ
