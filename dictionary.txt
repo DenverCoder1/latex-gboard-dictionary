@@ -1005,3 +1005,4 @@ _rp	₎
 \nequiv	≢	
 \VDash	⊫	
 \Vdash	⊩	
+\Vvdash	⊪	
