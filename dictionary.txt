@@ -93,6 +93,7 @@ _chi	ᵪ
 ^theta	ᶿ	
 ^iota	ᶥ	
 ^phi	ᵠ	
+^Phi	ᶲ	
 _β	ᵦ	
 _γ	ᵧ	
 _ρ	ᵨ	
