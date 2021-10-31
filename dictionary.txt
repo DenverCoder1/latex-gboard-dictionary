@@ -937,7 +937,7 @@ _rp	₎
 \frac56	⅚	
 \frac18	⅛	
 \frac38	⅜	
-\frac58 ⅝ 
+\frac58	⅝	
 \frac78	⅞	
 \co	℅	
 \QED	∎	
