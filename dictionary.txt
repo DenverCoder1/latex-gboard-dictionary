@@ -2,7 +2,7 @@
 \Iota	I	
 \lnot	¬	
 \neg	¬	
-^2  ² 
+^2	²	
 ^3	³	
 ^1	¹	
 \times	×	
