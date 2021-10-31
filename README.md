@@ -40,5 +40,5 @@ https://www.youtube.com/watch?v=bGWikJu37WI
 
 <a href="https://ko-fi.com/jlawrence">☕ Buy me a coffee</a>
 
-[download]: https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/41.0.zip
+[download]: https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/42.0.zip
 [tutorial]: https://www.youtube.com/watch?v=bGWikJu37WI
