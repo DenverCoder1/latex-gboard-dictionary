@@ -924,6 +924,7 @@ _rp	₎
 \uranus	♅	
 \neptune	♆	
 \pluto	♇	
+-	−	
 \frac12	½	
 \frac13	⅓	
 \frac23	⅔	
