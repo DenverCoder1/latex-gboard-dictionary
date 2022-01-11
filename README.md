@@ -29,6 +29,10 @@ https://www.youtube.com/watch?v=bGWikJu37WI
 
 [<img alt="Watch on YouTube" title="Watch on YouTube" src="https://custom-icon-badges.herokuapp.com/badge/-Watch-red?style=for-the-badge&logo=video&logoColor=white"/>][tutorial]
 
+## Thanks
+
+Thanks to [Abraham Murciano](https://github.com/abrahammurciano/) for helping to come up with the idea and [all who contributed](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/graphs/contributors) for making this project as useful as it can be.
+
 ## Support
 
 💖 If you like this project, give it a ⭐ and share it with friends!
