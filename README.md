@@ -83,5 +83,5 @@ Thanks to [Abraham Murciano](https://github.com/abrahammurciano/) for helping to
 
 <a href="https://ko-fi.com/jlawrence">☕ Buy me a coffee</a>
 
-[download]: https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/44.0.zip
+[download]: https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/45.0.zip
 [tutorial]: https://www.youtube.com/watch?v=bGWikJu37WI
