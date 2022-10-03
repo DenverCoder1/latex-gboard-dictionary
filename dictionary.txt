@@ -1031,3 +1031,4 @@ _rp	₎
 \Vdash	⊩	
 \Vvdash	⊪	
 \nvdash	⊬	
+\vDash	⊨	
