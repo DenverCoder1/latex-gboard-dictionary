@@ -379,8 +379,10 @@ _Z	ᴢ
 \leftrightharpoons	⇋	
 \rightleftharpoons	⇌	
 \Leftarrow	⇐	
+\not\Leftarrow	⇍	
 \Uparrow	⇑	
 \Rightarrow	⇒	
+\not\Rightarrow	⇏	
 \Downarrow	⇓	
 \Leftrightarrow	⇔	
 \rightsquigarrow	⇝	
