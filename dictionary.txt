@@ -250,6 +250,7 @@ _Z	ᴢ
 \rightarrow	→	
 \to	→	
 \rightarrow	→	
+->	→	
 ^\rightarrow	⃗	
 ^rightarrow	⃗	
 ^bar	̅	
@@ -379,11 +380,19 @@ _Z	ᴢ
 \leftrightharpoons	⇋	
 \rightleftharpoons	⇌	
 \Leftarrow	⇐	
+<=	⇐	
+\not\Leftarrow	⇍	
+<\=	⇍	
 \Uparrow	⇑	
 \Rightarrow	⇒	
+=>	⇒	
+\not\Rightarrow	⇏	
+=/>	⇏	
 \Downarrow	⇓	
 \Leftrightarrow	⇔	
+<=>	⇔	
 \rightsquigarrow	⇝	
+~>	⇝	
 \forall	∀	
 \partial	∂	
 \exists	∃	
