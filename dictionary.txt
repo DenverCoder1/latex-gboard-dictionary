@@ -1035,3 +1035,5 @@ _rp	₎
 \nvdash	⊬	
 \vDash	⊨	
 \nvDash	⊭	
+\swastika	卐	
+\revSwastika	卍	
