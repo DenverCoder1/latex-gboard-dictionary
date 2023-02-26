@@ -11,13 +11,15 @@ Shortcuts for Gboard are supported on all Android devices. As of now, these shor
 
 ## Usage
 
-It's as simple as typing `\sum` or `\R` on the keyboard and tapping the suggested symbol!
+It's as simple as typing `\sum`, `\R`, etc. on the keyboard and tapping the suggested symbol!
+
+See [`dictionary.txt`](https://github.com/DenverCoder1/latex-gboard-dictionary/blob/master/dictionary.txt) for a full list of supported symbols.
 
 ![latex-gboard](https://user-images.githubusercontent.com/20955511/132758175-1584af8d-c6c0-482a-80bb-0dc67b8542cb.gif)
 
 ## Download
 
-Download as a zip folder to import into Gboard
+Download as a **zip folder** to import into Gboard
 
 [<img alt="Download zip" title="Download zip" src="https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white"/>][download]
 
