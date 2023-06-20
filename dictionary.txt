@@ -1050,6 +1050,6 @@ _rp	₎
 \nvDash	⊭	
 \swastika	卐	
 \revSwastika	卍	
-\latinCross	✝	
-\starAndCrescent	☪	
-\starOfDavid	✡	
+\latinCross	✝︎	
+\starAndCrescent	☪︎	
+\starOfDavid	✡︎	
