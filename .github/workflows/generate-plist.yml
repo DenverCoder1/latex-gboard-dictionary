@@ -1,0 +1,26 @@
+# This workflow will generate a plist file from the dictionary.txt file
+name: Generate plist
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Generate plist
+      run: python ${GITHUB_WORKSPACE}/.github/dictionary_to_plist.py
+
+    - name: Add and commit
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: GitHub Actions
+        author_email: 41898282+github-actions[bot]@users.noreply.github.com
+        message: "chore: Update dictionary.plist"
+        add: "*.plist"
