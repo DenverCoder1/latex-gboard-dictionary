@@ -22,5 +22,6 @@ jobs:
       with:
         author_name: GitHub Actions
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         message: "chore: Update dictionary.plist"
         add: "*.plist"
