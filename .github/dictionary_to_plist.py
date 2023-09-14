@@ -1,7 +1,7 @@
 import plistlib
 
-INPUT_FILE = "../dictionary.txt"
-OUTPUT_FILE = "../dictionary.plist"
+INPUT_FILE = "dictionary.txt"
+OUTPUT_FILE = "dictionary.plist"
 
 def parse_line(line: str) -> tuple[str | None, str | None]:
     """
