@@ -4,7 +4,7 @@ INPUT_FILE = "dictionary.txt"
 OUTPUT_FILE = "generated/dictionary.plist"
 
 
-def parse_line(line: str) -> tuple[str | None, str | None]:
+def parse_line(line: str) -> tuple[str, str] | tuple[None, None]:
     """Returns the shortcut and phrase from a line in the format "<shortcut><tab><phrase><tab>".
     If the line is not in the above format, returns None for both values."""
     parts = line.strip().split("\t")
